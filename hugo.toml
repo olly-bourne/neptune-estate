@@ -1,6 +1,6 @@
 baseURL = 'https://olly-bourne.github.io/neptune-estate/'
-languageCode = 'en-gb'
-title = 'Oliver Bourne'
+locale = 'en-gb'
+title = 'Olly Bourne'
 theme = 'PaperMod'
 
 [params]
@@ -13,3 +13,8 @@ theme = 'PaperMod'
 
 [minify]
   disableXML = true
+
+[[menu.main]]
+  name = "Why Work With Me?"
+  url = "/why-work-with-me/"
+  weight = 20
