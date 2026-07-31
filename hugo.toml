@@ -1,0 +1,15 @@
+baseURL = 'https://olly-bourne.github.io/neptune-estate/'
+languageCode = 'en-gb'
+title = 'Oliver Bourne'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[minify]
+  disableXML = true
