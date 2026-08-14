@@ -6,13 +6,13 @@ form {
 form label {
   display: block;
   font-weight: 600;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.6 rem;
 }
 
 form input[type="email"],
 form textarea {
   width: 100%;
-  padding: 0.6rem;
+  padding: 1.6rem;
   margin-bottom: 1.2rem;
   border: 1px solid var(--border);
   border-radius: 6px;

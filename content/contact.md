@@ -9,16 +9,14 @@ hidemeta = true
 
 Want to get in touch? Fill in the form below and I'll get back to you.
 
+>**I use Formspree to keep us both safe from spambots.**
+
 <form action="https://formspree.io/f/mrpzllwq" method="POST">
-  <label for="email">Your email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
+<label for="email">Your email:</label>
+<input type="email" id="email" name="email" required>
 
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="6" required></textarea><br><br>
-
-  <button type="submit">Send</button>
+<label for="message">Message:</label>
+<textarea id="message" name="message" rows="6" required></textarea>
 
   <input type="text" name="_gotcha" style="display:none">
 </form>
-
->**I use Formspree to keep us both safe from spambots.**
