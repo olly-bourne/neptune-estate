@@ -1,0 +1,12 @@
+hugo server -D
+
+
+git add .
+git commit -m "Describe what you changed here"
+git push
+
+
+
+git add .
+git commit -m "comtent updates"
+git push
