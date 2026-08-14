@@ -12,7 +12,7 @@ form label {
 form input[type="email"],
 form textarea {
   width: 100%;
-  padding: 1.6rem;
+  padding: 0.6rem;
   margin-bottom: 1.2rem;
   border: 1px solid var(--border);
   border-radius: 6px;
