@@ -9,7 +9,9 @@ hidemeta = true
 
 Want to get in touch? Fill in the form below and I'll get back to you.
 
->**I use Formspree to keep us both safe from spambots.**
+*I use Formspree to keep our email addresses safe.*
+
+---
 
 <form action="https://formspree.io/f/mrpzllwq" method="POST">
 <label for="email">Your email:</label>
