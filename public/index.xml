@@ -6,14 +6,44 @@
     <description>Recent content in Home on Olly Bourne</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 31 Jul 2026 12:16:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:59:46 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/neptune-estate/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Work With Me</title>
-      <link>http://localhost:1313/neptune-estate/why-work-with-me/</link>
-      <pubDate>Fri, 31 Jul 2026 12:16:18 +0100</pubDate>
-      <guid>http://localhost:1313/neptune-estate/why-work-with-me/</guid>
+      <title>Contact</title>
+      <link>http://localhost:1313/neptune-estate/contact/</link>
+      <pubDate>Fri, 14 Aug 2026 09:59:46 +0100</pubDate>
+      <guid>http://localhost:1313/neptune-estate/contact/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/neptune-estate/blog/</link>
+      <pubDate>Fri, 14 Aug 2026 09:53:44 +0100</pubDate>
+      <guid>http://localhost:1313/neptune-estate/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiction</title>
+      <link>http://localhost:1313/neptune-estate/fiction/</link>
+      <pubDate>Fri, 31 Jul 2026 12:56:57 +0100</pubDate>
+      <guid>http://localhost:1313/neptune-estate/fiction/</guid>
+      <description>&lt;h2 id=&#34;hes-just-out-for-lunch&#34;&gt;He&amp;rsquo;s just out for lunch&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/neptune-estate/resume/</link>
+      <pubDate>Fri, 31 Jul 2026 12:56:44 +0100</pubDate>
+      <guid>http://localhost:1313/neptune-estate/resume/</guid>
+      <description>&lt;h2 id=&#34;roles&#34;&gt;Roles&lt;/h2&gt;
+&lt;h3 id=&#34;content-strategist--the-donkey-sanctuary--2023--present&#34;&gt;Content Strategist | The Donkey Sanctuary | 2023 – Present&lt;/h3&gt;
+&lt;h3 id=&#34;content-coordinator--the-donkey-sanctuary--2020--2023&#34;&gt;Content Coordinator | The Donkey Sanctuary | 2020 – 2023&lt;/h3&gt;
+&lt;h3 id=&#34;content-writer---pertemba-global--2019--2020&#34;&gt;Content Writer |  Pertemba Global | 2019 – 2020&lt;/h3&gt;
+&lt;h3 id=&#34;cofounder--juan-forte--2016--2025&#34;&gt;Cofounder | Juan Forte | 2016 – 2025&lt;/h3&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;ma-international-relations--university-of-leeds--2017--2018&#34;&gt;MA International Relations | University of Leeds | 2017 – 2018&lt;/h3&gt;
+&lt;h3 id=&#34;ba-history-international--university-of-leeds--2012--2016&#34;&gt;BA History (International) | University of Leeds | 2012 – 2016&lt;/h3&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
+&lt;h3 id=&#34;professional-certificate-in-content-design--ux-design-institute--2025&#34;&gt;Professional Certificate in Content Design | UX Design Institute | 2025&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>

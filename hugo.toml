@@ -10,11 +10,36 @@ theme = 'PaperMod'
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  env = "staging"
+
+  [params.profileMode]
+  enabled = false
+  title = "Hi, I'm Olly"
+  subtitle = "## I'm a writer and strategist."
+  imageUrl = "/neptune-estate/images/headshot.jpeg"
+  imageAlt = "Olly Bourne headshot"
+  imageWidth = 120
+  imageHeight = 120
 
 [minify]
   disableXML = true
 
 [[menu.main]]
-  name = "Why Work With Me?"
-  url = "/why-work-with-me/"
+  name = "Blog"
+  url = "/blog/"
+  weight = 10
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
   weight = 20
+
+  [[menu.main]]
+  name = "Fiction"
+  url = "/fiction/"
+  weight = 30
+
+  [[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 40
