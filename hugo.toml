@@ -1,4 +1,4 @@
-baseURL = 'https://olly-bourne.github.io/neptune-estate/'
+baseURL = 'https://ollybourne.com/'
 locale = 'en-gb'
 title = 'Olly Bourne'
 theme = 'PaperMod'
@@ -16,7 +16,7 @@ theme = 'PaperMod'
   enabled = false
   title = "Hi, I'm Olly"
   subtitle = "## I'm a writer and strategist."
-  imageUrl = "/neptune-estate/images/headshot.jpeg"
+  imageUrl = "/images/headshot.jpeg"
   imageAlt = "Olly Bourne headshot"
   imageWidth = 120
   imageHeight = 120
