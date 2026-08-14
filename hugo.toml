@@ -11,6 +11,7 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   ShowToc = true
   env = "staging"
+  mainSections = []
 
   [params.profileMode]
   enabled = false

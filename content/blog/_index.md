@@ -6,4 +6,4 @@ showBreadcrumbs = false
 hidemeta = true
 +++
 
-***I haven't started building this page yet, but check back soon***
+***I haven't finished building this page yet, but check back soon***

@@ -60,3 +60,18 @@ form button:hover {
   object-fit: cover;
   margin: 0;
 }
+
+.entry-tags {
+  margin-top: 0.5rem;
+}
+
+.entry-tag {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 12px;
+  background-color: var(--tertiary);
+  color: var(--primary);
+  font-size: 0.8rem;
+  text-decoration: none;
+}

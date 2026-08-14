@@ -6,4 +6,10 @@ showBreadcrumbs = false
 hidemeta = true
 +++
 
-***I haven't finished building this page yet, but check back soon***
+I've always enjoyed writing short stories. I used to publish them on Substack, and I'm slowly moving and improving them here. 
+
+I mainly write speculative fiction (sci-fi, fantasy, alternative timelines etc). I've tagged each story to give you an idea of what to expect.
+
+**It might get weird, but it's always SFW.**
+
+---
