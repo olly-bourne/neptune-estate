@@ -20,3 +20,5 @@ Want to get in touch? Fill in the form below and I'll get back to you.
 
   <input type="text" name="_gotcha" style="display:none">
 </form>
+
+>**I use Formspree to keep us both safe from spambots.**
