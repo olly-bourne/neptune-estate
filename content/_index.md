@@ -23,14 +23,14 @@ You can find out anything you might need to know about me, and how to get in tou
 
 I've been writing for just under a decade.
 
-I've written for small DIY brands, global ecommerce firms and large charities. 
-
->**I like writing for strong missions, bold identities and unconventional approaches.**
+I've written for small DIY startups, global ecommerce firms and large charities. 
 
 I help brands understand:
 - who they're writing for
 - where they're most competitive
 - how to make their content **accessible** and **engaging**.
+
+>**I like writing for strong missions, bold identities and unconventional approaches.**
 
 ---
 
