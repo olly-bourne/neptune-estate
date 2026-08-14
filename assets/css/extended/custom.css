@@ -6,7 +6,7 @@ form {
 form label {
   display: block;
   font-weight: 600;
-  margin-bottom: 0.6 rem;
+  margin-bottom: 0.6rem;
 }
 
 form input[type="email"],
