@@ -1,7 +1,7 @@
 +++
 date = '2026-07-31T12:56:44+01:00'
 draft = false
-title = 'CV'
+title = 'Resume'
 showToc = false
 showBreadcrumbs = false
 hidemeta = true

@@ -24,6 +24,11 @@ theme = 'PaperMod'
 [minify]
   disableXML = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
