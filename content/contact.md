@@ -19,6 +19,7 @@ Want to get in touch? Fill in the form below and I'll get back to you.
 
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="6" required></textarea>
-
+<textarea id="message" name="message" rows="6" required></textarea>
   <input type="text" name="_gotcha" style="display:none">
+  <button type="submit">Send</button>
 </form>
