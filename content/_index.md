@@ -13,9 +13,11 @@ title: "Home"
 
 ---
 
-You've found my little corner of the internet.
+Welcome to my little corner of the internet.
 
-You can find out anything you might need to know about me, and how to get in touch if you'd like to work together.
+I created this space to house all the writing that I do for myself. Some of it has previously been published on LinkedIn or Substack, but it now all lives here. 
+
+You can also find my resume, and a way to get in touch if you'd like to explore working together.
 
 ---
 
@@ -34,13 +36,6 @@ I've written for small DIY startups, global ecommerce firms and large charities.
 
 ---
 
-### What you'll find on this website
-I created this space to house all the writing that I do for myself. Some of it has previously been published on LinkedIn or Substack, but it now all lives here. 
-
-You can also find my resume, and a way to get in touch if you'd like to explore working together.
-
----
-
 ## Get in touch
 
 Hit me up with the form below and I'll get back to you.
@@ -48,11 +43,10 @@ Hit me up with the form below and I'll get back to you.
 *I use Formspree to keep the bots away.*
 
 <form action="https://formspree.io/f/mrpzllwq" method="POST">
-<label for="email">Your email:</label>
+<label for="email">Your email address:</label>
 <input type="email" id="email" name="email" required>
 
-<label for="message">Message:</label>
-<textarea id="message" name="message" rows="6" required></textarea>
+<label for="message">Your message:</label>
 <textarea id="message" name="message" rows="6" required></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <button type="submit">Send</button>
