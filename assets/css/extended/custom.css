@@ -75,3 +75,7 @@ form button:hover {
   font-size: 0.8rem;
   text-decoration: none;
 }
+
+.md-content h1:hover .anchor {
+  display: none !important;
+}
