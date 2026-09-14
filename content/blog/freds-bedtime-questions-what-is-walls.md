@@ -1,7 +1,7 @@
 +++
 date = '2026-09-14T16:36:48+01:00'
 draft = false
-title = 'Fredtime questions: What is walls?'
+title = 'Fredtime questions: what is walls?'
 +++
 
 **Where I attempt to answer the questions my three-year-old asks me when I’m putting him to bed.**
