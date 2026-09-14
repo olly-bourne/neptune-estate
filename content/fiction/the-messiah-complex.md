@@ -5,7 +5,7 @@ title = 'The Messiah Complex'
 tags = ['Sci-fi', 'Religion']
 +++
 
-An explosive fishing trip begins a path of celestial discovery and a whole heap of bureaucracy
+**An explosive fishing trip begins a path of celestial discovery and a whole heap of bureaucracy.**
 
 <!--more-->
 

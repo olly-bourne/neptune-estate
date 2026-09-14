@@ -6,4 +6,6 @@ showBreadcrumbs = false
 hidemeta = true
 +++
 
-***I haven't finished building this page yet, but check back soon***
+When I have something to say, but noone to say it to - I put it here.
+
+---
