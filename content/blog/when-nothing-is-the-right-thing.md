@@ -1,6 +1,12 @@
-+++ date = '2026-09-15T16:36:48+01:00' draft = false title = 'When nothing is the right thing to do' +++
++++
+date = '2026-09-15T12:00:00+01:00'
+draft = false
+title = 'When nothing is the right action'
++++
 
 **Where I realise that sometimes doing nothing is the best move.**
+
+<!--more-->
 
 Outside of our house there are three hedges. They're around ten years old now. We've been in charge of them for three.
 
@@ -8,7 +14,7 @@ They promise a future of privacy and sound dampening from a busy main road; but,
 
 Two summers ago, they randomly started dying. Dreams of a hedge outside the front window evaporated almost instantly. A quick rifle through the leaves and the internet told me that Box tree Caterpillars had taken up residence.
 
-Hungry little buggers according to Google, capable of stripping an entire plant in a couple of weeks. 
+Hungry little buggers according to Google, capable of stripping an entire plant in a couple of weeks.
 
 Aggressive solutions for an aggressive pest. I might want to consider removing them by hand for a couple of weeks, introduce nematodes or even just cut the hedges down and replace them with something else.
 
@@ -22,7 +28,7 @@ I soon realised that birds were clearing the hedges for us. There's a big tree o
 
 The caterpillars come out twice a year now and I watch the birds when I can. I also give them water.
 
-My point here is that doing nothing was a valid solution. It let nature take its course. 
+My point here is that doing nothing was a valid solution. It let nature take its course.
 
 Obviously, it isn't a universal solution - as the box hedge desert around me attests - but it wasn't on any of the lists I consulted.
 
