@@ -2,7 +2,6 @@
 date = '2026-08-14T14:28:30+01:00'
 draft = false
 title = 'The Messiah Complex'
-tags = ['Sci-fi', 'Religion']
 +++
 
 **An explosive fishing trip begins a path of celestial discovery and a whole heap of bureaucracy.**
