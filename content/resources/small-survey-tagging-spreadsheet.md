@@ -4,8 +4,8 @@ draft = false
 title = 'Small survey tagging spreadsheet'
 +++
 
-Collecting survey responses in Microsoft Forms and need help making sense of them?
-
+## Collecting survey responses in Microsoft Forms and need help making sense of them?
+--- 
 <!--more-->
 
 I've done a lot of work with Microsoft Forms, and I love it for building surveys. It's really easy and intuitive to get a quick form created and sent out.
