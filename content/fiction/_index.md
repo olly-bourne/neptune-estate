@@ -6,6 +6,6 @@ showBreadcrumbs = false
 hidemeta = true
 +++
 
-I've always enjoyed writing short stories. I mainly write speculative fiction (sci-fi, fantasy, alternative timelines etc).
+I've always enjoyed writing short stories. I predominantly write speculative fiction.
 
 ---

@@ -8,7 +8,7 @@ git push
 
 
 git add .
-git commit -m "comtent updates"
+git commit -m "content updates"
 git push
 
 
@@ -16,3 +16,6 @@ git push
 git add .
 git commit -m "Moved contact to homepage"
 git push
+
+
+   hugo new resources/small-survery-tagging-spreadsheet.md

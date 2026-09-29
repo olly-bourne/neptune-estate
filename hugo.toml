@@ -7,9 +7,9 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
-  ShowToc = true
+  ShowToc = false
   env = "staging"
   mainSections = []
 
