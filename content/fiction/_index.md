@@ -6,6 +6,6 @@ showBreadcrumbs = false
 hidemeta = true
 +++
 
-I've always enjoyed writing short stories. I predominantly write speculative fiction.
+I write short stories, mainly speculative fiction.
 
 ---
