@@ -4,7 +4,7 @@ draft = false
 title = 'Fredtime questions: what is walls?'
 +++
 
-**Where I attempt to answer the questions my three-year-old asks me when I’m putting him to bed.**
+**Where I attempt to answer the question my three-year-old asks me when I’m putting him to bed.**
 
 <!--more-->
 
