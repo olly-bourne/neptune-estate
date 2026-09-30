@@ -9,7 +9,7 @@ CookieConsent.run({
       en: {
         consentModal: {
           title: 'Cookies',
-          description: 'I use Google Analytics to keep an eye on traffic. It only runs if you accept.',
+          description: 'I use Google Analytics to understand how people use this site. It only runs if you accept. Read the <a href="/privacy-and-cookie-policy/">privacy and cookie policy</a>.',
           acceptAllBtn: 'Accept all',
           acceptNecessaryBtn: 'Reject all',
           showPreferencesBtn: 'Manage preferences'
@@ -29,7 +29,11 @@ CookieConsent.run({
               title: 'Analytics',
               description: 'Google Analytics 4 measures page views and visits. Data is used to improve the site.',
               linkedCategory: 'analytics'
-            }
+            },
+            {
+              title: 'More information',
+              description: 'For questions about this policy or your data, see the <a href="/privacy-and-cookie-policy/">privacy and cookie policy</a>.'
+        }
           ]
         }
       }
