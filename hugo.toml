@@ -22,6 +22,9 @@ theme = 'PaperMod'
   imageWidth = 120
   imageHeight = 120
 
+[services.googleAnalytics]
+  id = "G-PVDB9X5X3F"
+
 [minify]
   disableXML = true
 
