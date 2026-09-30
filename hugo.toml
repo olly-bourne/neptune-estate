@@ -12,6 +12,8 @@ theme = 'PaperMod'
   ShowToc = false
   env = "staging"
   mainSections = []
+  defaultTheme = "light"   # "light", "dark" or "auto"
+  disableThemeToggle = false
 
   [params.profileMode]
   enabled = false

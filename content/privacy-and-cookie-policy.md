@@ -19,13 +19,14 @@ I keep analytics data for 14 months, then it is deleted automatically.
 
 If you send a message through the contact form, I collect the details you enter (such as your name, email address and message) so I can reply to you. The form is run by Formspree, who process submissions on my behalf and may store data outside the UK. I keep messages for as long as needed to deal with your enquiry, and delete them within 12 months. You can use the same form to ask me to delete your message sooner.
 
-## Cookies
+## Cookies and local storage
 
 | Cookie | Purpose | Set by | Lifespan | Consent needed |
 |---|---|---|---|---|
 | `_ga` | Distinguishes returning visitors for analytics | Google Analytics | Up to 2 years | Yes |
 | `_ga_PVDB9X5X3F` | Keeps track of session state | Google Analytics | Up to 2 years | Yes |
 | `cc_cookie` | Remembers your cookie choices | This site | 6 months | No, strictly necessary |
+| `pref-theme` | Remembers your light or dark mode choice | This site | Until you clear your browser data | No, stored only when you use the theme toggle |
 
 Some browsers shorten the lifespan of cookies, so you may see a shorter expiry than the one listed.
 
@@ -34,6 +35,8 @@ You can change your mind at any time using the "Cookie settings" link in the foo
 ## Where your data goes
 
 Analytics data is processed by Google, and contact form messages by Formspree. Both may process data outside the UK. See [Google's privacy policy](https://policies.google.com/privacy) and [Formspree's privacy policy](https://formspree.io/legal/privacy-policy/) for how they handle it.
+
+
 
 ## Your rights
 
