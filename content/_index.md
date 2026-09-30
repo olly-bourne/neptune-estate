@@ -11,7 +11,7 @@ title: "Home"
 
 ## I'm a writer and strategist.
 
-Welcome to my little corner of the internet.
+Welcome to my corner of the internet.
 
 ---
 
@@ -19,7 +19,9 @@ Welcome to my little corner of the internet.
 
 I've been writing for just under a decade.
 
-I've written for small DIY startups, global ecommerce firms and large charities. 
+I've written for small DIY startups, global ecommerce firms and large charities - working on marketing and UX strategies too.
+
+I like history, being outdoors and swearing at cryptic crosswords.
 
 ---
 
