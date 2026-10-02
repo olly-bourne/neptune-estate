@@ -20,6 +20,6 @@ Forces of nature were making me use CoPilot and I had to stop when I realised I 
 
 I suspect that this was ultimately confirmation bias, but it did make me write down a reminder
 
->AI can dig you out of a hole, or help you make the hole look fancy.
+>AI can dig you out of a hole, or may just make your hole look fancy.
 
 There's a common thread to this week that I don't want to put my finger on.
