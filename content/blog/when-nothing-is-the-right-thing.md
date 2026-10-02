@@ -4,7 +4,7 @@ draft = false
 title = 'When nothing is the right action'
 +++
 
-**Where I realise that sometimes doing nothing is the best move.**
+**Where I realise that sometimes doing nothing is the best move**
 
 <!--more-->
 
