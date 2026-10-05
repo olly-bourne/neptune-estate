@@ -1,7 +1,7 @@
 +++
 date = '2026-10-03T21:45:59+01:00'
 draft = false
-title = 'Scourge of the courier: dyson sphere'
+title = 'Scourge of the courier: Dyson sphere'
 +++
 
 **Fragments of an ancient tome chart a delivery boy's journey from banality into bloodsoaked infamy**
@@ -30,12 +30,12 @@ That such banality could lead to the suffering and salvation of so many still ha
 
 The hiss of the landing gear broke the silence in the cockpit, resuming after the dull thud of the ship touched down in the bay.
 
-It was Stanley's first delivery to a dyson sphere, and he was slightly disappointed. It supposedly housed an entire solar system. So why was it so…empty?
+It was Stanley's first delivery to a Dyson sphere, and he was slightly disappointed. It supposedly housed an entire solar system. So why was it so…empty?
 
 Another hiss rang through the cockpit as the ship released the door.
 
 Stanley sat there for five minutes, taking in the silence. 
-The ship's computer eventually let out a raspy, "We have arrived at your destination… Sol dyson sphere".
+The ship's computer eventually let out a raspy, "We have arrived at your destination… Sol Dyson sphere".
 
 The tardiness of the announcement angered Stanley. He could have been out of the door by now. Another grievance to add to the list.
 
