@@ -1,10 +1,10 @@
 +++
 date = '2026-10-03T21:45:59+01:00'
 draft = false
-title = 'Curse of the Courier'
+title = 'Scourge of the courier: dyson sphere'
 +++
 
-**Fragments of an ancient tome chart a delivery boy's journey from banality into bloodbathed infamy**
+**Fragments of an ancient tome chart a delivery boy's journey from banality into bloodsoaked infamy**
 
 <!--more-->
 
