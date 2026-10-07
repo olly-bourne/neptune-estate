@@ -1,6 +1,6 @@
 +++
 date = '2026-10-07T13:49:41+01:00'
-draft = true
+draft = false
 title = 'What Gary the Cat can teach us all about communications'
 +++
 ---
