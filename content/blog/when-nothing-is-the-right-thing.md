@@ -3,10 +3,12 @@ date = '2026-09-15T12:00:00+01:00'
 draft = false
 title = 'When nothing is the right action'
 +++
-
+---
 **Where I realise that sometimes doing nothing is the best move**
 
 <!--more-->
+
+---
 
 Outside of our house there are three hedges. They're around ten years old now. We've been in charge of them for three.
 

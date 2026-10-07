@@ -3,11 +3,11 @@ date = '2026-09-14T16:36:48+01:00'
 draft = false
 title = 'Fredtime questions: what is walls?'
 +++
-
+---
 **Where I attempt to answer the question my three-year-old asks me when I’m putting him to bed**
 
 <!--more-->
-
+---
 Last night we read Roald Dahl’s **‘Danny the Champion of the World’.**
 
 We got to this line on page six:

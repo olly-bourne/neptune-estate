@@ -79,3 +79,21 @@ form button:hover {
 .md-content h1:hover .anchor {
   display: none !important;
 }
+
+.post-content img {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  margin: 1.5rem auto;
+}
+
+@media (min-width: 768px) {
+  .post-content img {
+    float: right;
+    margin: 0.3rem 0 1rem 1.5rem;
+    max-width: 250px;
+  }
+}

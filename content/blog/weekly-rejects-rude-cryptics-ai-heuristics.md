@@ -3,10 +3,12 @@ date = '2026-10-02T12:17:01+01:00'
 draft = false
 title = 'Weekly rejects: rude cryptics & AI heuristics'
 +++
-
+---
 **Where I share the things that should never make it out of the notebook**
 
 <!--more-->
+
+---
 
 ## Rude cryptics: the surface is clean, the solution is not
 
