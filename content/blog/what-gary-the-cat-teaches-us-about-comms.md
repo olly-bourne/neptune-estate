@@ -1,7 +1,7 @@
 +++
 date = '2026-10-07T13:49:41+01:00'
 draft = false
-title = 'What Gary the Cat can teach us all about communications'
+title = 'What Gary the Cat can teach us all about communication'
 +++
 ---
 
@@ -29,4 +29,4 @@ Although as I write this, “the cat formerly known as Gary” has a nice ring t
 
 I digress; my point here is that if no one gets hurt (obviously if Gary took offence with her name we would modify) – a common, albeit inaccurate, vocabulary is more valuable than an accurate yet mutually incomprehensible vocabulary.
 
-Meeting people with the language they expect to be met with will improve your communications tenfold.
+Meeting people with the language they expect to be met with will improve your communication tenfold.
