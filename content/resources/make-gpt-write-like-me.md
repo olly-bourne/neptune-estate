@@ -40,3 +40,6 @@ Here's the blank template:
 
 And here's a version with my writing style added so you can see how it works:
 >[Download the example template](/downloads/ai_writing_guide_template_example_shareable.docx)
+
+### Disclaimer
+This isn't a golden bullet, but should give you a solid first draft to either work on yourself or to get your assistant of choice to continue iterating on.
