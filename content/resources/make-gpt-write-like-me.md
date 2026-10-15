@@ -4,7 +4,7 @@ draft = false
 title = 'Make GPT write like me'
 +++
 
-## Using AI to write for you and worried you sound very similar to everyone else?
+## Using AI to write and worried you sound very similar to everyone else?
 --- 
 <!--more-->
 
