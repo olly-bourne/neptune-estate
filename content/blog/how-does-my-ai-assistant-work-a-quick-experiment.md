@@ -34,3 +34,9 @@ Well, I use this little nugget to help me with some of my decision making when I
 Am I working on something that requires the ‘average’ response? My two examples here are working on spreadsheets or a snippet of code for this website. There’s a correct answer to what I’m trying to do – and the average response is going to give me what I need.
 
 If I’m working on something that requires something novel or new, that doesn’t necessarily mean I won’t use the AI assistant – it just means that I’ll be more careful with the prompt I’m using.
+
+## Avoiding the average trap
+
+So, unfortunately there's no copy and paste method for overcoming this average trap. The best course of action is to make sure that you, as the person writing and responding to the prompt, are reviewing the output with a critical eye or have another person to assist you with that.
+
+The average, by design, will look pretty passable. It's up to you to take it further.
